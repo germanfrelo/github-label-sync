@@ -12,18 +12,18 @@
   "bin": "bin/github-label-sync.js",
   "dependencies": {
     "@financial-times/origami-service-makefile": "^7.0.3",
-    "ajv": "^8.6.3",
+    "ajv": "^8.20.0",
     "chalk": "^4.1.2",
     "commander": "^6.2.1",
     "got": "^12.5.3",
-    "js-yaml": "^3.14.1",
+    "js-yaml": "^3.15.2",
     "node.extend": "^2.0.2",
     "octonode": "^0.10.2"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
     "istanbul": "~0.4",
-    "mocha": "^10.8.2",
+    "mocha": "^12.0.3",
     "mockery": "^2",
     "proclaim": "^3",
     "sinon": "^1",
